@@ -1,0 +1,272 @@
+body{
+	margin: 0 auto;
+}
+
+.main-header{
+	background-color: #00B5C9;
+	width: 100%;
+	padding-top: 10px;
+
+}
+
+.main-header h2{
+	margin-top: 0px;
+	padding-bottom: 10px;
+	color: white;
+	margin-bottom: 0px;
+}
+
+.container-principal{
+	width: 100%;
+	display: flex;
+	margin-bottom: -5px;
+}
+
+.datos-foto{
+	width: 33%
+
+}
+
+.datos-generales{
+	display: flex;
+	margin: 0 0;
+}
+
+.categoria{
+	color: #00B5C9;
+	margin: 0 0;
+	text-align: right;
+	margin-right: 5px;
+	font-size: 16px;
+	margin-left: 45px;
+
+}
+
+.categoria h3{
+	margin-top: 0px;
+	padding-top: 10px;
+	margin-bottom: 0px;
+}
+
+.respuesta{
+	margin: 0 0;
+	text-align: left;
+	margin-left: 5px;
+}
+
+.respuesta h4{
+	margin-top: 0px;
+	padding-top: 13px;
+	margin-bottom: 0px;
+}
+
+
+.cualidades{
+	margin-top: 0px;
+	display: flex;
+	justify-content: space-around;
+	font-size: 12px;
+}
+
+.cualidad {
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.cualidad h4{
+	background-color: #00B5C9;
+	padding: 7px 15px;
+	color: white;
+	border-radius: 20px;
+}
+.foto{
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-left: 50px;
+}
+
+.foto img{
+	width: 80%;
+	height: 287px;
+}
+
+.motivaciones-metas-bio{
+	width: 30%;
+	margin-left: 2%;
+}
+
+.motivaciones-metas-bio h4{
+	color: #00B5C9;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.imp{
+	background-color: #CCCCCC;
+
+	color: white;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 2px;
+	width: 75%;
+}
+.par{
+	background-color: #F2F2F2;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 2px;
+	width: 75%;
+}
+
+.metas h4{
+	margin-bottom: 0px;
+}
+.metas ul{
+	padding-left: 15px;
+	margin: 0 auto;
+}
+
+.biografia{
+	background-color: #F2F2F2;
+	padding-bottom: 5%;
+	margin-top: 15px;
+	padding-top: 5px;
+}
+
+.biografia p{
+	font-size: 14px;
+}
+
+.Historial-Tecnologia-Social{
+	margin-left: 2%;
+}
+
+.Historial-Tecnologia-Social h4{
+	color: #00B5C9;
+}
+
+
+.Historial-Tecnologia-Social ul{
+	padding-left: 0px;
+}
+
+.historial ul{
+	margin-top: 0px;
+}
+
+.historial h4{
+
+	margin-bottom: 0pc;
+
+}
+
+.Tecnologia ul li{
+
+	list-style:none;
+
+}
+
+.graf{
+	color: #00B5C9;
+	background: #00b5c9;
+}
+
+.web
+{
+
+	background: -moz-linear-gradient(left, #00b5c9 0%, #00b5c9 40%, #f2f2f2 40%);
+	background: -webkit-linear-gradient(left, #00b5c9 0%,#00b5c9 40%,#f2f2f2 40%);
+	background: linear-gradient(to right, #00b5c9 0%,#00b5c9 40%,#f2f2f2 40%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00b5c9', endColorstr='#f2f2f2',GradientType=1 );
+}
+
+.java{
+
+	background: -moz-linear-gradient(left, #00b5c9 0%, #00b5c9 70%, #f2f2f2 70%);
+	background: -webkit-linear-gradient(left, #00b5c9 0%,#00b5c9 70%,#f2f2f2 70%);
+	background: linear-gradient(to right, #00b5c9 0%,#00b5c9 70%,#f2f2f2 70%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00b5c9', endColorstr='#f2f2f2',GradientType=1 );
+}
+
+.cmas{
+	background: -moz-linear-gradient(left, #00b5c9 0%, #00b5c9 65%, #f2f2f2 65%);
+	background: -webkit-linear-gradient(left, #00b5c9 0%,#00b5c9 65%,#f2f2f2 65%);
+	background: linear-gradient(to right, #00b5c9 0%,#00b5c9 65%,#f2f2f2 65%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00b5c9', endColorstr='#f2f2f2',GradientType=1 );
+}
+
+.bd{
+	background: -moz-linear-gradient(left, #00b5c9 0%, #00b5c9 50%, #f2f2f2 50%);
+	background: -webkit-linear-gradient(left, #00b5c9 0%,#00b5c9 50%,#f2f2f2 50%);
+	background: linear-gradient(to right, #00b5c9 0%,#00b5c9 50%,#f2f2f2 50%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00b5c9', endColorstr='#f2f2f2',GradientType=1 );
+}
+
+.container-social{
+	display: flex;
+	justify-content: space-around;
+	font-size: 45px;
+}
+
+.container-social a{
+	color: #00B5C9;
+}
+
+.main-footer{
+	background-color: #00B5C9;
+	color: white;
+	text-align: center;
+	width: 100%;
+	padding-top: 1%;
+	margin-top: 18px;
+	padding-bottom: 1%;
+	margin-bottom: 0px;
+}
+.main-footer h3{
+	margin: 0 0;
+}
+
+@media screen and (max-width: 768px){
+	body{
+		font-size: 10px;
+	}
+
+	.container-principal{
+	  flex-direction: column;
+	}
+
+	.datos-foto{
+		width: 100%;
+	}
+
+	.categoria h3{
+		font-size: 12px;
+	}
+	.categoria{
+		margin: 0 0;
+		margin-left: auto;
+		margin-right: 10px;
+	}
+
+	.respuesta{
+		margin: 0 0;
+
+		margin-right: auto;
+		margin-left: 5px;
+	}
+
+
+
+	.motivaciones-metas-bio{
+		width: 100%;
+	}
+
+	.Historial-Tecnologia-Social{
+		width: 100%;
+	}
+
+
+
+
+
+}
